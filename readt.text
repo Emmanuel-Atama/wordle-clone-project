@@ -33,3 +33,8 @@ game process:
       -- modal to say 'well done'
     -- when the user runs out of guesses
       -- modal to say 'unlucky'
+
+
+Installing json server globally: npm install -g json-server
+
+Connecting the db.son server to a port and db data on the local machine: json-server ./data/db.json --port 3001
